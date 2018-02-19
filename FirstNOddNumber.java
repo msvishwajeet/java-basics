@@ -1,7 +1,7 @@
 package com.practice.java.learning;
 import java.util.Scanner;
 //first n odd number
-public class Ten {
+public class FirstNOddNumber {
 public static void main(String[] args) {
 	Scanner sc= new Scanner(System.in);
 	System.out.println("Enter a number");
