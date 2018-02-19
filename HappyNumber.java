@@ -14,7 +14,7 @@ public static void main(String[] args) {
 	
 	while((k!=1)||(k!=m1)) {
 		System.out.println(k);
-		if ((k==1)||(k==m1)) {
+		if ((k==1)||(k<9)) {
 			break;
 		}
 		k=checkHappy(k);
